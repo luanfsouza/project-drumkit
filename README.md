@@ -1,3 +1,3 @@
 # project-drumkit
  project-drumkit
-<img src='./img/back.jpg'>
+ <img src="luanfsouza.github.io.png>
